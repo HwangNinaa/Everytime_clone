@@ -1,0 +1,61 @@
+.timetable {
+  padding-bottom: 100px;
+}
+
+.timetable_header .header_small {
+  font-size: 10px;
+  color: #c62917;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.timetable_header .header_big {
+  font-size: 20px;
+  margin: 10px 10px;
+  font-weight: 600;
+}
+
+.timetable_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.timetable_header .header_icon {
+  margin: 0px 15px;
+  color: #c62917;
+}
+
+.timetable_timetable img {
+  border-radius: 20px;
+  border: 1px solid#f2e4dd;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.timetable_friends_title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.timetable_friends .timetable_friends_title {
+  font-size: 18px;
+  margin-right: 15px;
+}
+
+.timetable_friends .timetable_friends_list {
+  font-size: 15px;
+  color: #939393;
+}
+
+.blank {
+  padding: 5px;
+}
+
+.timetable_friends {
+  width: 100%;
+  padding: 10px 20px;
+  border: 1px solid #d6d6d6;
+  border-radius: 20px;
+  margin: 0 auto;
+}

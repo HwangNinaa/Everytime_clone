@@ -1,0 +1,31 @@
+.nav {
+  position: fixed;
+  background-color: #ffffff;
+  width: 100%;
+  padding: 10px 30px;
+  bottom: 0px;
+  left: 0px;
+  border-top: 1px solid #f7f7f7;
+}
+
+.nav .nav_list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav_list_item .nav__list-link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nav__list-link i {
+  font-size: 25px;
+  margin-bottom: 7px;
+  color: #d6d6d6;
+}
+
+.nav__list-link .nav_list_name {
+  font-size: 10px;
+  color: #d6d6d6;
+}
