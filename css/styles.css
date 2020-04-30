@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap");
-@import "Home.css";
+@import "home.css";
 @import "nav.css";
 @import "reset.css";
 @import "status_bar.css";
-@import "Board.css";
-@import "Timetable.css";
-@import "Notifications.css";
+@import "board.css";
+@import "timetable.css";
+@import "notifications.css";
 
 * {
   box-sizing: border-box;
