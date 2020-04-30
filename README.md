@@ -1,4 +1,4 @@
-permalink: /home.html
+permalink: /index.html
 
 # everytime_clone
 
