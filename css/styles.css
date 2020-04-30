@@ -5,6 +5,7 @@
 @import "status_bar.css";
 @import "Board.css";
 @import "Timetable.css";
+@import "Notifications.css";
 
 * {
   box-sizing: border-box;
